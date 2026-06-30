@@ -1,0 +1,16 @@
+﻿product_id,product_name,category,price
+P101,Rice,Grocery,650
+P102,Wheat Flour,Grocery,480
+P103,,Grocery,180
+P104,Sugar,Grocery,
+P105,Milk,Dairy,60
+P106,Butter,,280
+P107,Eggs,Dairy,90
+P108,Shampoo,Personal Care,320
+P109,Toothpaste,Personal Care,
+P110,Bath Soap,Personal Care,45
+P111,Detergent Powder,Household,420
+P112,Dishwashing Liquid,,150
+P113,Biscuits,Snacks,
+P114,Potato Chips,Snacks,25
+P115,Green Tea,Beverages,220
